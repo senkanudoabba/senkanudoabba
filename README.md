@@ -1,16 +1,34 @@
-## Hi there 👋
+# Solomon Udoabba
 
-<!--
-**senkanudoabba/senkanudoabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevSecOps Engineer | Networking | Cloud Security | Automation
 
-Here are some ideas to get you started:
+I'm building my skills at the intersection of networking, cloud infrastructure, security, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to develop practical, secure-by-design workflows and document what I learn through hands-on projects.
+
+## Current Focus
+
+- Cloud and infrastructure fundamentals
+- Linux, Git, and GitHub
+- CI/CD workflows
+- Infrastructure and application security
+- DevSecOps practices and automation
+
+## Portfolio Projects
+
+*Projects will be added here as I build and document them.*
+
+| Project | Description | Technologies |
+|---|---|---|
+| Coming soon | Cloud network security lab | To be added |
+| Coming soon | CI/CD pipeline with security checks | To be added |
+| Coming soon | DevSecOps automation project | To be added |
+
+## Connect
+
+- **LinkedIn:** [Add your LinkedIn profile URL]
+- **Email:** solomonudoabba@gmail.com
+
+---
+
+*Learning in public. Building practical skills. Improving one project at a time.*
