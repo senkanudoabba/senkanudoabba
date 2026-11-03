@@ -26,7 +26,7 @@ My goal is to develop practical, secure-by-design workflows and document what I 
 
 ## Connect
 
-- **LinkedIn:**www.linkedin.com/in/solomon-udoabba-16096b447
+- **LinkedIn:** www.linkedin.com/in/solomon-udoabba-16096b447
 - **Email:** solomonudoabba@gmail.com
 
 ---
